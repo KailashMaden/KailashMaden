@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <p><samp>I'm <b>Kailash Maden</b>.</samp></p>
-<p><samp>I'm a <b>Computer Science</b> undergraduate student at <a href="http://kcc.edu.np//">Kantipur City College</a> in Kathmandu, <b>Nepal</b>.</samp></p>
+<p><samp>I'm a <b>Computer Science</b> graduate student at <a href="http://kcc.edu.np//">Kantipur City College</a> in Kathmandu, <b>Nepal</b>.</samp></p>
 <p><samp>I'm passionate about <b>Competitive Programming</b>, <b>Web Development</b> and <b>Open Source</b>.</samp></p>
 <hr>
 <p>
